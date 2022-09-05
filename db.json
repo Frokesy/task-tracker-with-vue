@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "A new task",
+      "day": "August 30, 2022",
+      "reminder": true,
+      "id": 1
+    }
+  ]
+}
